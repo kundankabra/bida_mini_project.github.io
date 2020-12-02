@@ -1,3 +1,11 @@
+
+body{background-color: white;
+font-family: 'Courier New', Courier, monospace;
+background-image: url(https://images-na.ssl-images-amazon.com/images/I/C1qmG3fnRpS.png);
+backdrop-filter: blur(6px);
+backdrop-filter: brightness(-50px);
+background-size:50% !important; 
+}
  /* side names */
  #mySidenav a {
     position: absolute;
