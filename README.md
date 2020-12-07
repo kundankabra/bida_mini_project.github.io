@@ -9,7 +9,7 @@
 > https://kundankabra.github.io/bida_mini_project.github.io/
 <hr>
 
-## Probelem Statement :
+## Problem Statement :
 
   A newly launched OTT platform wishes to list certain movies to increase traffic on their platform.
   To analyze the various aspects and trends of Indian movies, 
