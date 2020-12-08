@@ -1,4 +1,11 @@
- /* side names */
+body{background-color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  background-image: url(https://images-na.ssl-images-amazon.com/images/I/C1qmG3fnRpS.png);
+  backdrop-filter: blur(6px);
+  backdrop-filter: brightness(-50px);
+  background-size:50% !important; 
+  }
+/* side names */
  #mySidenav a {
     position: absolute;
     left: -230px;
@@ -35,4 +42,10 @@
     background-color: #555
   }
  
+  .head{
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
   
