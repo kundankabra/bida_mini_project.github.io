@@ -7,6 +7,7 @@
 ### The project is deployed at : 
 
 > https://kundankabra.github.io/bida_mini_project.github.io/
+*Not mobile responsive*
 <hr>
 
 ## Problem Statement :
